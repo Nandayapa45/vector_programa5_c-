@@ -1,6 +1,6 @@
 // vector_programa5_c++.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-
+//Programador: Rodrigo Nandayapa Medina 2°O LIDST
 #include <iostream>
 #include <vector>
 #include <string>
